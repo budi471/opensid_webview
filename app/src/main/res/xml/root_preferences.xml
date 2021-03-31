@@ -1,0 +1,11 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListPreference
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/sid_entries"
+        android:entryValues="@array/sid_values"
+        android:defaultValue=""
+        android:key="@string/key_url_opensid"
+        android:title="Pilih Url webdesa" />
+</PreferenceScreen>

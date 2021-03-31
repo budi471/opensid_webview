@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Opensid webview</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="key_url_opensid">url_opensid</string>
+</resources>
