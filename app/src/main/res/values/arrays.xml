@@ -1,16 +1,16 @@
 <resources>
     <!-- List Url Opensid Preference -->
     <string-array name="sid_entries">
-        <item>Opensid Demo</item>
-        <item>Natai raya</item>
-        <item>Rarang selatan</item>
-        <item>Sidodadi penarik</item>
+        <item>Opensid Demo Dipointer</item>
+        <item>Dipointer</item>
+        <item>selatan</item>
+        <item>timur</item>
     </string-array>
 
     <string-array name="sid_values">
-        <item>https://berputar.opensid.or.id</item>
-        <item>https://www.natairaya.desa.id</item>
-        <item>https://rarangselatan.desa.id</item>
-        <item>https://sidodadi-penarik.desa.id</item>
+        <item>https://desa.dipointer.id</item>
+        <item>https://www.desa.dipointer.id</item>
+        <item>https://desa.dipointer.id</item>
+        <item>https://desa.dipointer.id</item>
     </string-array>
 </resources>
